@@ -4,7 +4,7 @@
 
 ---
 
-![GitSync Screenshot](https://yourdomain.com/gitsync-banner.png) <!-- Optional visual -->
+![GitSync Screenshot](https://lh3.googleusercontent.com/iNPgm412kyng02veJT3YS2bpzGZAmg6i_FScAvUdJyOCmcIAp-lVr7rLUVZ-cigUweqII_D6QE18eceRQ-6ohYrWMyVKQSOhadZL=h200) <!-- Optional visual -->
 
 ## 🚀 Key Features
 
